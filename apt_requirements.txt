@@ -1,0 +1,2 @@
+sudo apt install xclip
+sudo apt install xsel
